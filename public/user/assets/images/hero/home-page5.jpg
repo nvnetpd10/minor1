@@ -1,0 +1,594 @@
+<html>
+<meta charset="utf-8" />
+<meta http-equiv="x-ua-compatible" content="ie=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="description"
+    content="Scholarshipforme is India's no. 1 scholarship search portal which helps students search and explore the scholarships and get assistance for the best scholarship with our powerful searching technology. Earning a scholarship makes the student financially secure and meaningfully alert. Scholarshipforme.com is the platform for you." />
+<meta name="robots" content="all" />
+<meta name="keywords"
+    content="best scholarship for me, scholarship for sc, scholarship for st, scholarship for obc, scholarship for general students, scholarshipforme, scholarshipfm, sfm, sfmcom, scholarship for me com, scholarship for you, Scholarship, scholarships, scholarship fund, scholarshipsg, scholarship of the day, scholarship first, scholarship resume, scholarshipopp, scholarshipp ageant, scholarship perks, scholarship sharing , scholarships for indian tudents, scholarships for students" />
+<meta name="author" content="Scholarshipforme.com" />
+<meta name="email" content="info@scholaeshipforme.com" />
+<meta name="name" content="Scholarship for me" />
+<meta name="type" content="Scholarship Search Portal" />
+<meta name="theme-color" content="#2042e3" />
+
+<link rel="shortcut icon" type="image/x-icon" href="https://scholarshipforme.com/public/user/assets/images/favicon.ico" />
+<link rel="icon" type="image/x-icon" href="https://scholarshipforme.com/public/user/assets/images/favicon.ico">
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-V1EGQTT2G9"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+
+    gtag('config', 'G-V1EGQTT2G9');
+</script>
+
+<meta name="google-site-verification" content="buQnwc8JjJ-uD8vg2zuq1TOtlbaf3EyLrX884DjZrjQ" />
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-V1EGQTT2G9"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+
+    gtag('config', 'G-V1EGQTT2G9');
+</script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-710403453"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+    gtag('config', 'AW-710403453');
+</script>
+
+<script>
+    gtag('event', 'conversion', {
+        'send_to': 'AW-710403453/Uv91CL_c3s0DEP3K39IC'
+    });
+</script>
+
+<script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
+<amp-analytics type="gtag" data-credentials="include">
+    <script type="application/json">
+        {
+            "vars": {
+                "gtag_id": "AW-710403453",
+                "config": {
+                    "AW-710403453": {
+                        "groups": "default"
+                    }
+                }
+            },
+            "triggers": {}
+        }
+    </script>
+</amp-analytics>
+<meta name="google-site-verification" content="buQnwc8JjJ-uD8vg2zuq1TOtlbaf3EyLrX884DjZrjQ" />
+
+<!-- Place favicon.ico in the root directory -->
+
+<!-- Web Font -->
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap"
+    rel="stylesheet">
+
+<!-- ========================= CSS here ========================= -->
+<link rel="stylesheet" href="https://scholarshipforme.com/public/user/assets/css/bootstrap.min.css" />
+<link rel="stylesheet" href="https://scholarshipforme.com/public/user/assets/css/LineIcons.2.0.css" />
+<link rel="stylesheet" href="https://scholarshipforme.com/public/user/assets/css/animate.css" />
+<link rel="stylesheet" href="https://scholarshipforme.com/public/user/assets/css/tiny-slider.css" />
+<link rel="stylesheet" href="https://scholarshipforme.com/public/user/assets/css/glightbox.min.css" />
+<link rel="stylesheet" href="https://scholarshipforme.com/public/user/assets/css/main.css" />
+<link rel="stylesheet" href="https://scholarshipforme.com/public/user/style.css" />
+<!-- <link rel="stylesheet" type="text/css" href="https://scholarshipforme.com/public/user/assets/css/chatbot.css">
+<link rel="stylesheet" type="text/css" href="https://scholarshipforme.com/public/user/assets/css/jquery.convform.css"> -->
+<title>Result</title>
+
+<body>
+
+    <!--[if lte IE 9]>
+      <p class="browserupgrade">
+        You are using an <strong>outdated</strong> browser. Please
+        <a href="https://browsehappy.com/">upgrade your browser</a> to improve
+        your experience and security.
+      </p>
+    <![endif]-->
+    <div id="loading-area"></div>
+
+    <div class="error-area">
+        <div class="d-table">
+            <div class="d-table-cell">
+                <div class="container">
+                    <div class="error-content">
+                        <h1>Oops!</h1>
+                        <h2>YOU BLEW UP THE INTERNET.</h2>
+                        <p>It is an 404 Error. The page you are looking for is no longer here, or never existed in
+                            The first place. Please return To the Home page</p>
+                        <div class="button">
+                            <a href="/" class="btn">Go To Home</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</body>
+<script src="https://scholarshipforme.com/public/user/assets/js/jquery.min.js"></script>
+<script src="https://scholarshipforme.com/public/user/assets/js/sweetalert.min.js"></script>
+<script src="https://scholarshipforme.com/public/user/assets/js/bootstrap.min.js"></script>
+<script src="https://scholarshipforme.com/public/user/assets/js/wow.min.js"></script>
+<script src="https://scholarshipforme.com/public/user/assets/js/tiny-slider.js"></script>
+<script src="https://scholarshipforme.com/public/user/assets/js/glightbox.min.js"></script>
+<script src="https://scholarshipforme.com/public/user/assets/js/main.js"></script>
+<!-- <script src="https://scholarshipforme.com/public/user/assets/js/jquery.convform.js"></script> -->
+<script src="https://scholarshipforme.com/public/user/assets/js/chatbot.js"></script>
+<!-- <script type="text/javascript" src="https://scholarshipforme.com/public/user/assets/js/jquery.convform.js"></script> -->
+<script src="https://scholarshipforme.com/public/plugins/sweetalert.min.js"></script>
+
+
+<script>
+    var geolocation = {};
+    var hash_key = null;
+
+    function LogOut() {
+        swal({
+                title: "Are you sure?",
+                text: "Do you want to logout ?",
+                icon: "warning",
+                buttons: true,
+                dangerMode: true,
+            })
+            .then((willDelete) => {
+                if (willDelete) {
+                    window.location.href = "/user_logout";
+                } else {
+
+                }
+            });
+    }
+
+    function onlyNumberKey(evt) {
+        var ASCIICode = (evt.which) ? evt.which : evt.keyCode
+        if (ASCIICode > 31 && (ASCIICode < 48 || ASCIICode > 57))
+            return false;
+        return true;
+    }
+
+    function selectScholarship(val) {
+
+        var keyword = $("#search-box").val();
+        if (!keyword || keyword == "") {
+            keyword = $("#mobile-search-box").val();
+        }
+
+        $("#search-box").val(val);
+        $("#suggesstion-box").hide();
+        $("#mobile-search-box").val(val);
+        $("#mobile-suggesstion-box").hide();
+        SearchActivitityCreate(keyword)
+    }
+
+
+    function timer(remaining) {
+        let timerOn = true;
+        var m = Math.floor(remaining / 60);
+        var s = remaining % 60;
+
+        m = m < 10 ? '0' + m : m;
+        s = s < 10 ? '0' + s : s;
+        document.getElementById('timer').innerHTML = "Resend OTP after " + m + ':' + s;
+
+        remaining -= 1;
+
+        if (remaining >= 0 && timerOn) {
+            setTimeout(function() {
+                timer(remaining);
+            }, 1000);
+            return;
+        }
+
+        if (!timerOn) {
+            // Do validate stuff here
+            return;
+        }
+
+        // Do timeout stuff here
+        document.getElementById('otp_submit').innerHTML = "Resend OTP";
+        document.getElementById('timer').innerHTML = "";
+        document.getElementById("otp_submit").disabled = false;
+    }
+
+
+    $(document).ready(function() {
+
+        $('#mobile').keyup(function() {
+            var l = document.getElementById('mobile').value.length;
+            if (l == 10) {
+                document.getElementById("otp_submit").disabled = false;
+            } else {
+                document.getElementById("otp_submit").disabled = true;
+            }
+        });
+
+
+        $('#otp_submit').click(function(e) {
+            e.preventDefault();
+            var mobile = encodeURIComponent(document.getElementById('mobile').value);
+            if (mobile == "") {
+                swal("Error!", "Please fill all the fields!", "error");
+            } else {
+                $.ajax({
+                    url: "/login_with_otp",
+                    type: "POST",
+                    data: {
+                        mobile: mobile,
+                    },
+                    cache: false,
+                    success: function(res) {
+
+                        if (!res.is_success) {
+                            swal("Warning", res.message, "warning");
+                            return;
+                        }
+
+                        document.getElementById("otp_submit").disabled = true;
+                        hash_key = res.data.hash_key;
+                        timer(10);
+
+                    },
+                    error: function(error) {
+                        ///alert(error);
+
+                        console.log(error);
+                    }
+                });
+            }
+        });
+
+
+        $('#login-submit').click(function(e) {
+            e.preventDefault();
+            var otp = encodeURIComponent(document.getElementById('otp1').value);
+
+            var mobile = document.getElementById('mobile').value;
+
+            if (otp == "") {
+                swal("Error!", "Please enter OTP!", "error");
+            } else {
+                $.ajax({
+                    url: "/verify_login",
+                    type: "POST",
+                    data: {
+                        hash_key: hash_key,
+                        code: otp,
+                    },
+                    cache: false,
+                    success: function(res) {
+                        if (!res.is_success) {
+                            swal("Error!", res.message, "error");
+                            return;
+                        }
+                        window.location.href = "/scholarships";
+
+                    },
+                    error: function(res) {
+                        swal("Warning", res.message, "warning");
+                    }
+                });
+            }
+        });
+
+
+        $("#search-box").keyup(function() {
+            var keyword = $(this).val();
+            $.ajax({
+                type: "GET",
+                url: `/scholarship/search_suggestion?keyword=${keyword}`,
+                success: function(data) {
+                    if (keyword.length > 0) {
+                        $("#suggesstion-box").show();
+                        $("#suggesstion-box").html(data);
+                        $("#search-box").css("background", "#FFF");
+                    } else {
+                        $("#suggesstion-box").hide();
+                    }
+                }
+            });
+        });
+
+        $("#mobile-search-box").keyup(function() {
+            var keyword = $(this).val();
+            $.ajax({
+                type: "GET",
+                url: `/scholarship/search_suggestion?keyword=${keyword}`,
+                success: function(data) {
+                    if (keyword.length > 0) {
+                        $("#mobile-suggesstion-box").show();
+                        $("#mobile-suggesstion-box").html(data);
+                        $("#mobile-search-box").css("background", "#FFF");
+                    } else {
+                        $("#mobile-suggesstion-box").hide();
+                    }
+                }
+            });
+        });
+
+
+
+        $('#subscribe-form').submit(function(e) {
+            e.preventDefault();
+            var email = document.getElementById('subscribe-email');
+            var btn = document.getElementById('subscribe-btn');
+            btn.disabled = true;
+            $.ajax({
+                url: "/subscribe",
+                type: "POST",
+                data: {
+                    to_email: email.value,
+                },
+                cache: false,
+                success: function(res) {
+                    btn.disabled = false;
+                    if (!res.is_success) {
+                        swal("Error!", res.message, "error");
+                        return;
+                    }
+
+                    email.value = "";
+                    swal("Confirmation", res.message, "success");
+
+                },
+                error: function(res) {
+                    swal("Warning", res.message, "warning");
+                }
+            });
+
+        });
+    });
+
+
+
+
+
+
+    $(document).on('click', '.save-btn', function(e) {
+        e.preventDefault();
+        var id = $(this).attr('id');
+        $.ajax({
+            url: "/scholarship/saved_un_saved",
+            type: "POST",
+            data: {
+                scholarship_id: id
+            },
+            cache: false,
+            success: function(res) {
+                if (!res.is_success) {
+                    //swal("Warning", res.message, "warning");
+                    window.location.href = "/sign_up";
+                    return;
+                }
+
+                swal("Confirmation", res.message, "success");
+                document.getElementById(id).innerHTML = "<i class='lni lni-bookmark'></i> " + res.data;
+            },
+            error: function(error) {
+                swal("Warning", res.message, "warning");
+            }
+        });
+
+    });
+
+
+    document.querySelector('#search-box')?.addEventListener('keypress', function(e) {
+        if (e.key === 'Enter') {
+            SearchActivitityCreate(e.target.value);
+        }
+    });
+
+    document.querySelector('#mobile-search-box')?.addEventListener('keypress', function(e) {
+        if (e.key === 'Enter') {
+            SearchActivitityCreate(e.target.value)
+        }
+    });
+
+
+    // if (navigator.geolocation) {
+    //     navigator.geolocation.getCurrentPosition(showPosition);
+    // } else {
+    //     alert('Geolocation is not supported by this browser.');
+    // }
+
+    // function showPosition(position) {
+    //     geolocation = position;
+    // }
+
+
+    function SearchActivitityCreate(keyword) {
+        var model = {
+            keyword,
+            latitude: geolocation.coords?.latitude,
+            longitude: geolocation.coords?.longitude
+        };
+
+        $.ajax({
+            url: "/search_activity/create",
+            type: "POST",
+            data: model,
+            cache: false,
+            success: function(res) {
+
+            },
+            error: function(error) {
+                alert(error);
+            }
+        });
+
+    }
+
+
+    var question_sl = 1;
+    var assistant_question_id=1;
+    ///Chatbox
+    $(document).ready(function() {
+        $('.chat_icon').click(function(event) {
+            $('.chat_box').toggleClass('active');
+
+
+            var assistant_id = $("#assistant_id").val();
+
+
+            if (!assistant_id) {
+                $.ajax({
+                    url: "/assistant/create",
+                    type: "POST",
+                    cache: false,
+                    success: function(res) {
+                        if (res.is_success) {
+                            $("#assistant_id").val(res.data.assistant_id);
+                            AddQuestion();
+                        }
+                    },
+                    error: function(error) {
+                        alert(error.statusText);
+                    }
+                });
+            }
+
+
+            $('#chat-submit').click(function(event) {
+                
+                SaveAnswer($("#userInput").val());
+            })
+
+        });
+
+        // $('.conv-form-wrapper').convform({
+        //     selectInputStyle: 'disable'
+        // });
+    })
+
+
+
+    function AddQuestion() {
+            $.ajax({
+                url: `/assistant/questions?page=${question_sl}`,
+                type: "GET",
+                cache: false,
+                success: function(res) {
+                    
+                    if (!res.is_success) {
+                        return;
+                    }
+                    var data = res.data.data[0];
+
+                    if(!data) {
+                        swal("Success", "All done", "success");
+                        document.getElementById("options").style.display = "none";
+                        return;
+                    }
+                    assistant_question_id=data.id;
+
+
+                    var el = `<div class="message to ready">${data.question}</div>`;
+                    $("#messages").append(el);
+
+                    if (data.type == "1") {
+                        document.getElementById("options").style.display = "block";
+                        
+                        $("#userInput").attr("disabled", true);
+                        $("#chat-submit").prop("disabled", true);
+                        var options = "";
+                        data.options.forEach(op => {
+                            options += `<div class="option" onclick='SaveAnswer("${op}")'>${op}</div>`;
+                        })
+                        $("#options").html(options);
+                    } else {
+                        document.getElementById("options").style.display = "none";
+                        $("#userInput").attr("disabled", false);
+                        $("#chat-submit").prop("disabled", false);
+                    }
+                    
+
+
+                },
+                error: function(error) {
+                    alert(error.statusText);
+                }
+            });
+        }
+
+        document.getElementById("userInput").addEventListener("keyup",function(e){
+            if(e.code=="Enter"){
+                SaveAnswer(e.target.value);
+            }
+        })
+
+    function SaveAnswer(answer) {
+        
+        if(!answer || answer=="\n"){
+            swal("Error!", "Write a text", "error");
+            return
+        }
+        var model = {
+            assistant_id: $("#assistant_id").val(),
+            assistant_question_id: assistant_question_id,
+            answer: answer
+        }
+
+        $.ajax({
+            url: "/assistant/save_answer",
+            type: "POST",
+            data:model,
+            cache: false,
+            success: function(res) {
+
+                $("#userInput").val("");
+                
+                if (res.is_success) {
+                    question_sl = question_sl + 1;
+                    var el = `<div class="message from">${answer}</div>`;
+                    $("#messages").append(el);
+                    AddQuestion();
+                }
+            },
+            error: function(error) {
+                alert(error.statusText);
+            }
+        });
+    }
+</script>
+
+<style>
+    .modal .login-modal-main .form-group {
+        margin-bottom: 10px;
+    }
+
+    @media screen and (max-width: 768px) {
+        .btn-otp {
+            /* color: #fff; */
+            background-color: #f2f2f2;
+            font-size: 12px;
+            height: 40px;
+            padding: 0px 0px !important;
+            font-size: 15px;
+            margin-top: 10px;
+            height: 40px !important;
+            width: 100%;
+        }
+    }
+</style>
+</html>
+The page you're looking for no longer exists.
+Return to the homepage and remember: you haven't seen anything.

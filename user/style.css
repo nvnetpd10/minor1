@@ -1,0 +1,317 @@
+.hero-area.style3 .home-search .form-group .form-control {
+    color: #666;
+}
+
+.find-job .single-job {
+    border: 1px solid #ccc !important
+}
+
+.job-search-wrap-two .job-search-form form .single-field-item {
+    -ms-flex: 0 0 100% !important;
+    flex: 0 0 100% !important;
+    max-width: 100% !important;
+}
+
+.job-details .job-details-head .badge-apply {
+    background: #2042e3;
+}
+
+.find-job .search-job .search-nner {
+    padding: 2px !important;
+    width: 100%;
+}
+
+.find-job .search-job .search-nner input {
+    height: 30px;
+    width: 100%;
+    border: 1px solid #eee;
+}
+
+.btn-primary-a {
+    background-color: rgba(0, 0, 255, 0.07);
+    border: 1px solid #eee;
+}
+
+.btn-primary-b {
+    background-color: rgba(0, 0, 255, 0.07);
+    border: 1px solid #eee;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: #081828;
+}
+
+p {
+    color: #555;
+}
+
+.search-container {
+    position: absolute;
+    z-index: 99;
+    /*position the autocomplete items to be the same width as the container:*/
+    top: 100%;
+    left: 0px;
+    right: 0px;
+    display: none;
+    flex: 1;
+    background-color: white;
+    padding: 0px 20px;
+    border-radius: 0px;
+    box-shadow: 0 5px 5px 0 #ccc;
+    min-width: 400px;
+    border-top: 1px solid #efefef;
+}
+
+.cus-bt {
+    padding: 8px 30px !important;
+}
+
+.manage-resumes .inner-content .resume-item .update-date .action-btn a {
+    font-weight: 500;
+}
+
+@media only screen and (min-width: 900px) {
+    .manage-resumes .inner-content .resume-item .update-date .action-btn {
+        float: none;
+    }
+    .manage-resumes .inner-content .resume-item .right .skills li {
+        display: inline-block;
+        font-size: 12px;
+        margin-bottom: 5px;
+        margin-right: 12px;
+        position: relative;
+        background: #fff;
+        color: #555;
+        padding: 0px 0px;
+    }
+    .manage-resumes .inner-content .resume-item {
+        position: relative;
+        background-color: #fff;
+        padding-bottom: 10px;
+        border-bottom: 1px solid #eee;
+        padding-left: 170px;
+        margin-bottom: 30px;
+    }
+    .fb-share {
+        color: #555;
+    }
+    .manage-resumes .inner-content .resume-item .update-date .action-btn a {
+        padding: 6px 22px;
+        font-size: 13px;
+        border: 0px solid rgba(0, 0, 255, 0.1);
+        border-radius: 4px;
+        color: rgb(255, 255, 255);
+    }
+    .manage-resumes .inner-content .resume-item .right .skills {
+        margin-top: 0px;
+    }
+    .breadcrumbs {
+        padding: 3px 0 !important;
+        padding-top: 3px !important;
+        /* background-image: url(../images/breadcrumb/breadcrumb-bg.jpg); */
+        background-color: #2042e3 !important;
+        margin-top: -90px;
+        display: none;
+    }
+    .manage-resumes .inner-content .resume-item img {
+        width: 55px !important;
+    }
+    .manage-resumes .inner-content .resume-item .right {
+        margin-left: -80px;
+    }
+    .manage-resumes .inner-content .resume-item .update-date {
+        margin-top: 6px;
+        padding-top: 10px;
+    }
+    .dashbord-sidebar {
+        padding: 15px;
+    }
+    .form-control {
+        font-size: 0.85rem;
+        color: #777;
+    }
+    .section {
+        padding-bottom: 55px;
+    }
+    .pad-10 {
+        margin-top: 7px;
+    }
+    .dashbord-sidebar {
+        position: sticky;
+        top: 71px;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .manage-resumes .inner-content .resume-item .update-date .action-btn a {
+        padding: 6px 22px;
+        font-size: 13px;
+        border: 0px solid rgba(0, 0, 255, 0.1);
+        border-radius: 4px;
+        color: rgba(0, 0, 255, 0.9);
+    }
+    .manage-resumes .inner-content .resume-item .update-date .action-btn {
+        float: none;
+    }
+    .manage-resumes .inner-content .resume-item .right .skills li {
+        display: inline-block;
+        font-size: 12px;
+        margin-bottom: 5px;
+        margin-right: 12px;
+        position: relative;
+        background: #fff;
+        color: #555;
+        padding: 0px 0px;
+    }
+    .find-job .search-job .search-nner {
+        margin-top: 0px;
+    }
+    .find-job .search-job .search-nner {
+        border: 0px solid #eee;
+    }
+    .breadcrumbs {
+        padding: 3px 0 !important;
+        padding-top: 3px !important;
+        /* background-image: url(../images/breadcrumb/breadcrumb-bg.jpg); */
+        background-color: #fff !important;
+        margin-top: 5px;
+    }
+    .manage-resumes .inner-content {
+        margin-top: -70px;
+        padding: 10px !important;
+        border: 1px solid #ddd !important;
+    }
+    .manage-resumes .inner-content .resume-item img {
+        width: 70px !important;
+    }
+    .padding-bottom-10 {
+        padding-bottom: 10px;
+    }
+    .form-control {
+        padding: 0.375rem 1.2rem !important;
+        font-size: 0.85rem !important;
+    }
+    .dashbord-sidebar {
+        margin-bottom: 100px;
+        margin-top: -80px;
+    }
+    .manage-resumes .inner-content .resume-item .action-btn a:last-child {
+        margin-bottom: 0px !important;
+    }
+    .manage-resumes .inner-content .resume-item .action-btn a {
+        margin-bottom: 0px;
+    }
+    .manage-resumes .inner-content .resume-item .update-date .action-btn a {
+        padding: 8px 20px;
+    }
+    .manage-resumes .inner-content .resume-item .update-date .action-btn {
+        padding-bottom: 7px;
+    }
+}
+
+.header .navbar-nav li .sub-menu {
+    border: 1px solid #ddd;
+}
+
+.navbar-area {
+    border-bottom: 0px solid #eee !important;
+    background-color: #fff !important;
+}
+
+@media only screen and (min-width: 900px) {
+    .header .button {
+        display: inherit !important;
+    }
+    .navbar-nav .nav-item a {
+        padding: 18px 0;
+    }
+    .navbar-nav .nav-item {
+        position: relative;
+        margin-left: 18px;
+    }
+    .header-search {
+        height: 38px;
+        width: 400px;
+        border: 0px solid #f0f0f0;
+        margin-top: 10px;
+        padding: 6px 10px;
+        border-radius: 0px;
+        border: 1px solid #eaeaea;
+    }
+    .header-search:hover {
+        border: 1px solid #2042e3;
+    }
+    .header .navbar-nav li .sub-menu {
+        width: 130px;
+        padding: 0px;
+    }
+    .header .navbar-nav li .sub-menu li a {
+        padding: 8px 12px;
+        border-radius: 0px;
+    }
+    .header .navbar-nav li .sub-menu li {
+        margin-bottom: 0px;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .header-search {
+        height: 38px;
+        width: 85%;
+        border: 1px solid #e6e2f5;
+        margin-top: 10px;
+        padding: 6px 10px;
+        border-radius: 6px;
+    }
+    .navbar-brand img {
+        width: 130px;
+        height: 34px;
+        margin-right: -15px !important;
+        margin-left: -5px;
+    }
+    .navbar {
+        padding: 10px 0;
+    }
+}
+
+.modal .login-modal-main .form-group {
+    margin-bottom: 10px;
+}
+
+@media screen and (max-width: 768px) {
+    .btn-otp {
+        /* color: #fff; */
+        background-color: #f2f2f2;
+        font-size: 12px;
+        height: 40px;
+        padding: 0px 0px !important;
+        font-size: 15px;
+        margin-top: 10px;
+        height: 40px !important;
+        width: 100%;
+    }
+}
+
+.sc-inactive {
+    color: #333;
+    padding: 1px 8px;
+    background-color: rgba(255, 0, 0, 0.2);
+    border-radius: 3px;
+    font-size: 12px;
+    font-weight: 400;
+}
+
+.sc-active {
+    color: #333;
+    padding: 1px 8px;
+    background-color: rgba(0, 255, 0, 0.1);
+    border-radius: 1px;
+    font-size: 12px;
+    font-weight: 400;
+    border: 1px solid rgba(0, 255, 0, 0.3);
+}
